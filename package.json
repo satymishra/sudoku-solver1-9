@@ -1,0 +1,24 @@
+{
+  "name": "sudoku-solver",
+  "version": "1.0.0",
+  "description": "Lightweight app that uses gen-rec and backtracking to solve sudoku puzzles",
+  "main": "index.html",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "sudoku",
+    "genrec",
+    "backtracking"
+  ],
+  "author": "Jack He",
+  "license": "MIT",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "https://github.com/satymishra/SUDOKU-SOLVER.github.io/blob/main/README.md"
+}
